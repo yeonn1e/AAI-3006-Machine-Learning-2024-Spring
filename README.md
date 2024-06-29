@@ -8,6 +8,9 @@ Lung Cancer Survival Prediction/
 ### Project Overview   
 - Goal: Binary Classification  
 - Dataset:  The Metadata on Lung Cancer Patients
+  - train.csv: the training set  
+  - test.csv: the test set  
+  - submission.csv: a sample submission file in the correct format  
 
 ## 3rd Project: Image Classification
 Image Classification/   
@@ -20,7 +23,7 @@ Image Classification/
 ### Project Overview   
 - Goal: Predicting the Correct Label for Each Image    
 - Dataset:  
-- train.csv: the training set  
-- test.csv: the test set  
-- SceneImages: image folder  
-- submission.csv: a sample submission file in the correct format  
+  - train.csv: the training set  
+  - test.csv: the test set  
+  - SceneImages: image folder  
+  - submission.csv: a sample submission file in the correct format  
