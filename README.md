@@ -15,7 +15,8 @@ Lung Cancer Survival Prediction/
   - submission.csv: a sample submission file in the correct format  
 
 ## 3rd Project: Image Classification
-~~~Image Classification/   
+~~~
+Image Classification/   
 ├── DenseNet.ipynb  
 ├── DenseNet_ver2.ipynb  
 ├── ResNet.ipynb  
